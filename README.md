@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
 
-- 👩🏻‍💻 I'm a Software Developer at <a href="https://home.barclays">**Barclayus**</a>
+- 👩🏻‍💻 I'm a Software Developer at <a href="https://home.barclays">**Barclays**</a>
 - 🌱 I’m exploring **Open Source** contributions related to Salesforc, Angular and ML-related projects
 - 👯 I’m looking to collaborate with small businesses by building tech-based solutions for their growth
 - 📫 You can mail me at **vikyaiyer1997@gmail.com**
