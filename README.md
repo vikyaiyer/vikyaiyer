@@ -1,25 +1,7 @@
-### Hi there 👋
-
-<!--
-### Hi there 👋
-
-**Devanshi1500/Devanshi1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
 
-- 👩🏻‍💻 I'm a Software Developer at <a href="https://home.barclays">**Barclays**</a>
-- 🌱 I’m exploring **Open Source** contributions related to Salesforc, Angular and ML-related projects
+- 👨🏾‍💻 I'm a Software Developer at <a href="https://home.barclays">**Barclays**</a>
+- 🌱 I’m exploring **Open Source** contributions related to Salesforce, Angular and ML-related projects
 - 👯 I’m looking to collaborate with small businesses by building tech-based solutions for their growth
 - 📫 You can mail me at **vikyaiyer1997@gmail.com**
 
@@ -47,9 +29,9 @@ Here are some ideas to get you started:
 
 <h3>👨‍💻 Passionate about?</h3>
 
-- Coding & Developing
+- Music
 - Designing Architecture
-- Reading Manga & Fitness
+- Reading Manga 
 
 <br>
 
@@ -58,3 +40,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/vignesh-aiyer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vignesh Aiyer" height="30" width="40" /></a> <a href="https://twitter.com/vikyaiyer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@vikyaiyer" height="30" width="40" /></a>
 </p>
 
+
+![](https://komarev.com/ghpvc/?username=vikyaiyer)
